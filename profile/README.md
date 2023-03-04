@@ -1,4 +1,4 @@
-## This FRC season's repository
+## This season's repository
 
 * [`awtybots/FRC-2023-Swerve`](https://github.com/awtybots/https://github.com/awtybots/FRC-2023-Swerve): The codebase for this year's FRC 2023 season bot\
 ![awtybots/FRC-2023-Swerve last commit](https://img.shields.io/github/last-commit/awtybots/FRC-2023-Swerve)
