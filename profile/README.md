@@ -5,4 +5,9 @@
 ![awtybots/FRC-2023-Swerve issues](https://img.shields.io/github/issues-raw/awtybots/FRC-2023-Swerve)
 ![awtybots/FRC-2023-Swerve pull requests](https://img.shields.io/github/issues-pr-raw/awtybots/FRC-2023-Swerve)
 
-FRC 5829 Awtybots!
+* [`awtybots/Led-Animation-Creator`](https://github.com/awtybots/Led-Animation-Creator): A LED strip animation creator created for this year's robot, but anyone can use it!\
+![awtybots/Led-Animation-Creator last commit](https://img.shields.io/github/last-commit/awtybots/Led-Animation-Creator)
+![awtybots/Led-Animation-Creator issues](https://img.shields.io/github/issues-raw/awtybots/Led-Animation-Creator)
+![awtybots/Led-Animation-Creator pull requests](https://img.shields.io/github/issues-pr-raw/awtybots/Led-Animation-Creator)
+
+Go 5829 Awtybots!
