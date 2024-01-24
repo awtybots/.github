@@ -15,5 +15,5 @@
 ![awtybots/FRC-2023-Swerve issues](https://img.shields.io/github/issues-raw/awtybots/FRC-2023-Swerve)
 ![awtybots/FRC-2023-Swerve pull requests](https://img.shields.io/github/issues-pr-raw/awtybots/FRC-2023-Swerve)
 
-Roll out Awtybots!
+Awtybots, roll out!
 
